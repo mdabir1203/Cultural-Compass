@@ -41,7 +41,8 @@ To use Cultural Compass effectively, users should:
 - GPT4 Premium Subscription
 
 ## How to Test Cultural Compass
-1. **Access the Tool:** [![Visit Cultural Compass](![image![1](https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/b69deb28-e042-4d12-964d-4ed3b6ccecca)])(https://chat.openai.com/g/g-9wvyoqXV1-cultural-compass)
+1. **Access the Tool:** [![Visit Cultural Compass](https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/b69deb28-e042-4d12-964d-4ed3b6ccecca)](https://chat.openai.com/g/g-9wvyoqXV1-cultural-compass)
+
 
 
 
