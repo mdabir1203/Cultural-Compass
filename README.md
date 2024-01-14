@@ -60,4 +60,7 @@ To use Cultural Compass effectively, users should:
 ## References
 - Information derived from a comprehensive database, including cultural studies, etiquette manuals, and guides pertinent to various European countries.
 - Openai CustomGPT documentation
-![image](https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/e1227745-2d07-4648-94c1-0fcd3133bb20)
+
+<p align="center">
+  <img src="https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/5ccd0b2b-c22e-4d15-8868-a55fc8d754fb" alt="image" width="60%" style="max-width:600px; border: 1px solid #ddd; box-shadow: 2px 2px 5px #ccc;"/>
+</p>
