@@ -1,5 +1,7 @@
 # Cultural Compass: Your AI-Driven Global Cultural Guide
-![image](https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/9d7cf70f-474f-452e-be9f-bc0cbc9589d5)
+<p align="center">
+  <img src="https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/9d7cf70f-474f-452e-be9f-bc0cbc9589d5" alt="image" width="100%" height="auto"/>
+</p>
 
 ## Overview
 Cultural Compass is an AI-driven guide specifically tailored to help users navigate and understand the rich diversity of European cultures. It provides insightful, accurate, and respectful guidance on various aspects of international etiquette and customs, business practices, and communication styles.
