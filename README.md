@@ -61,4 +61,17 @@ To use Cultural Compass effectively, users should:
 - Information derived from a comprehensive database, including cultural studies, etiquette manuals, and guides pertinent to various European countries.
 - Openai CustomGPT documentation
 
-## A UknowWho Production from 42 Wolfsburg for the People , for the Peers
+<style>
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.animated-text {
+    animation: fadeIn 3s ease-in-out;
+}
+</style>
+
+<div class="animated-text">
+    <strong>A UknowWho Production from 42 Wolfsburg for the People, for the Peers</strong>
+</div>
