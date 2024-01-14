@@ -1,6 +1,7 @@
 # Cultural Compass: Your AI-Driven Global Cultural Guide
+
 <p align="center">
-  <img src="https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/9d7cf70f-474f-452e-be9f-bc0cbc9589d5" alt="image" width="100%" height="auto"/>
+  <img src="https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/9d7cf70f-474f-452e-be9f-bc0cbc9589d5" alt="image" width="60%" height="auto"/>
 </p>
 
 ## Overview
