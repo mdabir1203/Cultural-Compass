@@ -50,14 +50,8 @@ To use Cultural Compass effectively, users should:
 5. **Interact with Cultural Compass:** Ask specific questions or explore the guidelines.
 6. **Feedback:** Provide feedback to help improve the tool.
 
-### For Non-Technical Users
-- Intuitive interface with easy navigation.
-- Clear, step-by-step instructions on accessing and using the tool.
-- Visual aids and examples for enhanced understanding.
+### Demo
 
-### For Technical Users
-- Detailed documentation on features and usage.
-- Advanced search options for in-depth cultural queries.
 
 ## Professional Guidelines
 - Adherence to professional standards, providing accurate and respectful cultural information.
