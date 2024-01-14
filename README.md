@@ -1,7 +1,7 @@
 # Cultural Compass: Your AI-Driven Global Cultural Guide
 
 <p align="center">
-  <img src="https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/9d7cf70f-474f-452e-be9f-bc0cbc9589d5" alt="image" width="60%" height="auto"/>
+  <img src="https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/9d7cf70f-474f-452e-be9f-bc0cbc9589d5" alt="image" width="35%" height="auto"/>
 </p>
 
 ## Overview
@@ -65,5 +65,5 @@ To use Cultural Compass effectively, users should:
 - Openai CustomGPT documentation
 
 <p align="center">
-  <img src="https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/5ccd0b2b-c22e-4d15-8868-a55fc8d754fb" alt="image" width="60%" style="max-width:600px; border: 1px solid #ddd; box-shadow: 2px 2px 5px #ccc;"/>
+  <img src="https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/5ccd0b2b-c22e-4d15-8868-a55fc8d754fb" alt="image" width="35%" style="max-width:600px; border: 1px solid #ddd; box-shadow: 2px 2px 5px #ccc;"/>
 </p>
