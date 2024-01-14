@@ -41,8 +41,8 @@ To use Cultural Compass effectively, users should:
 - GPT4 Premium Subscription
 
 ## How to Test Cultural Compass
-1. **Access the Tool:** [!(![Visit Cultural Compass](https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/f571df25-6f64-4da4-86a7-12be8b353cc8)
-)(https://chat.openai.com/g/g-9wvyoqXV1-cultural-compass)
+1. **Access the Tool:** [![Visit Cultural Compass](https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/f571df25-6f64-4da4-86a7-12be8b353cc8)](https://chat.openai.com/g/g-9wvyoqXV1-cultural-compass)
+
 
 
 2. **Choose a Cultural Topic:** Select from various topics relevant to European cultures.
