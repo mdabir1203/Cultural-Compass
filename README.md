@@ -42,7 +42,7 @@ To use Cultural Compass effectively, users should:
 
 ## How to Test Cultural Compass
 1. **Access the Tool:** [![Visit Cultural Compass](![image](https://github.com/mdabir1203/CulturalCompassGPT/assets/66947064/c5ec1062-de76-400d-81d7-4a803cd2286b)
-)](https://chat.openai.com/g/g-9wvyoqXV1-cultural-compass)
+)(https://chat.openai.com/g/g-9wvyoqXV1-cultural-compass)
 
 
 
